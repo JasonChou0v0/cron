@@ -14,11 +14,10 @@
 		"default_popup": "demo.html"
 	},
 	"options_ui": {
-		"page": "demo.html",
-		// 添加一些默认的样式，推荐使用
+		"page": "index.html",
 		"chrome_style": true
 	},
 	"permissions": [
-		"https://home.toolbook.cc/"
+		"https://www.jasonchou.cn"
 	]
 }
